@@ -68,7 +68,7 @@ section{
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url(./145.webp);
+    background: url(images/145.webp);
     background-size: cover;
     background-position:center;
     display: grid;
